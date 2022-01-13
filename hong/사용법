@@ -1,3 +1,5 @@
+사용 전 사전 준비사항
+
 1. Model을 준비(Google Chat을 통해 업로드하였음)
 
 2. Model을 "./data/model/model_lstm_220110.h5"경로에 저장
